@@ -12,6 +12,27 @@ files:
   - name: test/CinemaTests.java
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/189/stages/946/implement#comment
-status: Unchecked
-record: -1
+  - name: src/cinema/Seat.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/SeatController.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Theatre.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/PurchaseController.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/BadRequestException.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/PurchaseRequest.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/13376#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 26 Jun 2024 07:07:40 UTC"
+record: 2

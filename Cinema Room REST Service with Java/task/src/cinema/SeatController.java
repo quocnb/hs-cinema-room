@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class SeatController {
     @GetMapping("")
     public Theatre getSeats() {
-        return new Theatre(9, 9);
+        return Theatre.theatre;
     }
 }
